@@ -28,7 +28,7 @@
     - However, if you are intended to iterate on this app, be sure to run npm i in your directory
 
 ## Usage: 
-    - Record you everyday workout, and visualize it.
+    - Record your everyday workout, and visualize it.
 ![usagevideo](./assets/workout-tracker-trial-video.gif)
 
 ## Contributor:  
